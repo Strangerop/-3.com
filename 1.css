@@ -1,0 +1,11 @@
+#moving-button {
+  height: 30px;
+  width: 100px;
+  left: 0;
+  top: 0;
+}
+#b2{
+  height: 30px;
+  width: 100px;
+  margin-left: -100px;
+}
